@@ -1,0 +1,39 @@
+/*Shop*/
+body {
+	background: url(../images/white.jpg);
+	background-size: 100% 100%;
+}
+
+h1 {
+	background: white;
+	color: grey;
+	text-align: center;
+}
+
+#image {
+	border-radius: 100px;
+	border: 1px solid black;
+	margin: 30px;
+}
+
+/*Shopping Rules*/
+
+/*About Celine*/
+p {
+	background: white;
+	color: grey;
+	padding: 50px;
+	margin: 50px;
+	text-align: center;
+	border-radius: 100px;
+}
+
+h5 {
+	background: white;
+	padding: 10px;
+	color: grey;
+	border-radius: 100px;
+	text-align: center;
+}
+
+
