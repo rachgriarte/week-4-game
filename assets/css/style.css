@@ -4,13 +4,7 @@ body {
 	background-size: 100% 100%;
 }
 
-h1 {
-	background: white;
-	color: grey;
-	text-align: center;
-}
-
-#image {
+#one, #two, #three, #four {
 	border-radius: 80px;
 	border: 2px solid black;
 	margin: 20px;
@@ -20,7 +14,7 @@ h1 {
 	background: black;
 	color: grey;
 	margin-top: 30px;
-	border-radius: 60px;
+	border-radius: 30px;
 }
 
 /*Shopping Rules*/
@@ -32,16 +26,11 @@ h1 {
 	border-radius: 30px;
 }
 
-/*Celine Dion*/
-p {
-	background: white;
-	color: grey;
-	padding: 50px;
-	margin: 50px;
-	text-align: center;
-	border-radius: 100px;
+.col-md-5 {
+	padding: 40px;
 }
 
+/*Celine Dion*/
 h5 {
 	background: black;
 	padding: 10px;
