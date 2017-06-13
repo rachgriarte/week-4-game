@@ -11,19 +11,27 @@ h1 {
 }
 
 #image {
-	border-radius: 100px;
-	border: 1px solid black;
-	margin: 30px;
+	border-radius: 80px;
+	border: 2px solid black;
+	margin: 20px;
+}
+
+.col-md-4 {
+	background: black;
+	color: grey;
+	margin-top: 30px;
+	border-radius: 60px;
 }
 
 /*Shopping Rules*/
 .col-md-7 {
-	background: white;
+	background: black;
 	color: grey;
 	margin-top: 30px;
 	padding: 10px;
 	border-radius: 30px;
 }
+
 /*Celine Dion*/
 p {
 	background: white;
@@ -35,9 +43,9 @@ p {
 }
 
 h5 {
-	background: white;
+	background: black;
 	padding: 10px;
-	margin: 20px 100px;
+	margin: 40px 100px;
 	color: grey;
 	border-radius: 100px;
 	text-align: center;
