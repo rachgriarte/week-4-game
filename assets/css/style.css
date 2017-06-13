@@ -17,8 +17,14 @@ h1 {
 }
 
 /*Shopping Rules*/
-
-/*About Celine*/
+.col-md-7 {
+	background: white;
+	color: grey;
+	margin-top: 30px;
+	padding: 10px;
+	border-radius: 30px;
+}
+/*Celine Dion*/
 p {
 	background: white;
 	color: grey;
@@ -31,6 +37,7 @@ p {
 h5 {
 	background: white;
 	padding: 10px;
+	margin: 20px 100px;
 	color: grey;
 	border-radius: 100px;
 	text-align: center;
